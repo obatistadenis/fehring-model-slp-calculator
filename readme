@@ -1,0 +1,32 @@
+# Adapted Fehring Model – Excel Calculator
+
+## Overview
+This repository provides an Excel-based calculator designed to operationalize the adapted Fehring model for expert selection in validation studies in Speech-Language Pathology and Audiology.
+
+The calculator implements a cumulative scoring system based on predefined criteria, allowing standardized classification of professionals as experts according to their academic, clinical, and scientific background.
+
+## Model Description
+The original Fehring model was proposed in Nursing to support rigorous and transparent selection of experts in content validation studies. This adapted version extends the original framework to better reflect the contemporary context of Speech-Language Pathology and Audiology.
+
+In addition to the original domains (academic degree, clinical experience, scientific production, participation in validation studies, and involvement in teaching and/or research), this adaptation incorporates a specific clinical specialization criterion, recognizing formal specialist training directly related to the construct under validation.
+
+## Calculator Features
+- Automated scoring of expert selection criteria  
+- Cumulative point calculation across all domains  
+- Automatic classification of professionals based on a predefined cutoff score  
+- Designed to support transparency, reproducibility, and standardization in validation studies  
+
+## How to Use
+1. Download the Excel file from this repository.
+2. Enter the required information for each professional according to the predefined criteria.
+3. The calculator will automatically generate the total score and classify the professional as an expert or non-expert based on the adapted Fehring model.
+
+## Intended Use
+This tool is intended for researchers conducting methodological studies, particularly content validation studies of instruments in Speech-Language Pathology and Audiology. It may also be adapted for use in related health fields, provided appropriate contextual adjustments are made.
+
+## Scientific Context
+The calculator was developed as part of a methodological study describing the adaptation of the Fehring model for expert selection in Speech-Language Pathology and Audiology. Its use aims to enhance methodological rigor and promote good research practices aligned with international recommendations for measurement instrument development and validation.
+
+## License
+This repository is intended for academic and research use. Users are encouraged to cite the associated methodological framework when applying the calculator in scientific studies.
+
